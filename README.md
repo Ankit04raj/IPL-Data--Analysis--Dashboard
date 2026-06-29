@@ -295,12 +295,6 @@ If you found this project useful,
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🚀 Thank You for Visiting!
 
 *"Turning cricket data into actionable insights using Python and Data Analytics."*
